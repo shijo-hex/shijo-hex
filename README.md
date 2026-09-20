@@ -2,9 +2,10 @@
 
 # 👋 Hi, I'm **Shijo Sylan**
 
-### Full-Stack Developer | MERN Specialist | Web Enthusiast
+### Computer Science Engineering Student | AI/ML | Full-Stack Development | Cybersecurity
 
-[LinkedIn](https://www.linkedin.com/in/shijo-sylan/) • [Email](mailto:shijosylan@gmail.com) • [GitHub](https://github.com/shijo-hex)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shijo-sylan/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shijo-hex)
 
 </div>
 
@@ -12,124 +13,204 @@
 
 ## 🎯 About Me
 
-I'm a passionate **Full-Stack Developer** with a strong foundation in modern web technologies. I specialize in building scalable, user-centric applications using the **MERN stack** and other cutting-edge technologies. I'm committed to writing clean, maintainable code and continuously improving my craft through learning and collaboration.
+I'm a **Computer Science & Engineering student** interested in building practical technology that solves real-world problems.
 
-- 🌍 **Based in:** India
-- 💼 **Professional Focus:** Full Stack Web Development (Frontend + Backend)
-- 🚀 **Expertise:** MERN Stack (MongoDB, Express, React, Node.js)
-- 🌱 **Currently Learning:** Advanced system design, DevOps, and cloud architecture
-- 🤝 **Open to:** Collaboration, open-source contributions, and exciting projects
-- ⚡ **Mission:** Build impactful digital products that solve real-world problems
+My interests span **Artificial Intelligence, Machine Learning, Full-Stack Development, Cybersecurity, Network Security, IoT, and Embedded Systems**.
+
+I enjoy working on projects that combine software, intelligent systems, and hardware to create useful real-world solutions.
+
+- 🎓 **B.Tech Computer Science & Engineering**
+- 🤖 **Interested in:** AI & Machine Learning
+- 🌐 **Development:** Full-Stack Web Development
+- 🔐 **Security:** Cybersecurity & Network Security
+- 🔌 **Exploring:** IoT, Embedded Systems & Edge AI
+- 🚀 **Focus:** Real-world problem solving & product development
+- 💡 **Interested in:** Startup ideas, hackathons & innovative technology
+- 🌱 **Currently exploring:** AI-powered and security-focused systems
 
 ---
 
 ## 💡 What I Do
 
-✅ **Frontend Development** - Creating responsive, interactive UIs with React & Next.js  
-✅ **Backend Development** - Building robust APIs and scalable servers with Node.js & Express  
-✅ **Database Design** - Working with both SQL and NoSQL databases (PostgreSQL, MongoDB)  
-✅ **Full-Stack Solutions** - End-to-end development from concept to deployment  
-✅ **Performance Optimization** - Writing efficient code and optimizing application performance  
+- 🤖 **AI & Machine Learning** — Developing intelligent solutions for real-world problems
+- 🌐 **Web Development** — Building responsive frontend and backend applications
+- 🔐 **Cybersecurity** — Exploring malware detection, network security and data protection
+- 🧠 **Intelligent Systems** — Combining AI with practical applications
+- 🔌 **IoT & Embedded Systems** — Exploring Raspberry Pi, ESP32 and hardware-software systems
+- ⚙️ **Automation** — Developing systems that reduce manual work through intelligent automation
 
 ---
 
 ## 🛠 Tech Stack
 
-### **Languages**
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+### **Programming Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### **Frontend Frameworks**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+### **Web Development**
 
-### **Backend & Runtime**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- HTML
+- CSS
+- JavaScript
+- Flask
+- REST APIs
+
+### **AI / Machine Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+- Machine Learning
+- Natural Language Processing
+- Deep Learning
+- Computer Vision
+- AI-based classification
+- Intelligent detection systems
+
+### **Cybersecurity**
+
+- 🔐 Malware Detection
+- 🛡️ Network Security
+- 🔎 Threat Detection
+- 💾 Data Protection
+- 🔒 AES Encryption
+- 🧪 Security-focused system development
 
 ### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### **Tools & Platforms**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+- MySQL
+- SQLite
+
+### **IoT & Embedded**
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+- Raspberry Pi
+- ESP32
+- IoT systems
+- Edge AI
+- Embedded systems
+
+### **Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### **Project 1: E-Commerce Platform**
-A full-featured e-commerce solution built with modern technologies.
-
-- **Description:** Complete e-commerce platform with product catalog, shopping cart, payment integration, and admin dashboard
-- **Tech Stack:** React, Node.js, Express, MongoDB, Stripe API, JWT Authentication
-- **Key Features:** 
-  - Responsive UI with TailwindCSS
-  - Secure user authentication & authorization
-  - Real-time order tracking
-  - Admin analytics dashboard
-- **Impact:** Processed 100+ transactions with 99.5% uptime
-- 🔗 [View Repository](https://github.com/jo-hax/ecommerce-platform)
+- Git
+- GitHub
+- VS Code
+- Postman
+- Canva
 
 ---
 
-### **Project 2: Real-Time Chat Application**
-A modern chat application with real-time messaging capabilities.
+## 🚀 Featured Projects
 
-- **Description:** Interactive chat platform with user authentication, real-time messaging, and file sharing
-- **Tech Stack:** React, Node.js, Socket.io, MongoDB, Firebase Authentication
-- **Key Features:**
-  - Real-time message delivery using WebSockets
-  - User presence and typing indicators
-  - File & image sharing
-  - Responsive mobile design
-- 🔗 [View Repository](https://github.com/jo-hax/chat-app)
+### 🏛️ AI-Powered Grievance Redressal System
 
----
+An AI-powered **GovTech solution** designed to classify, prioritize and automatically route public grievances.
 
-### **Project 3: Task Management Dashboard**
-A collaborative task management tool for teams.
+**Tech:** Python • NLP • Flask • HTML • CSS • JavaScript
 
-- **Description:** Full-stack task manager with real-time updates and team collaboration features
-- **Tech Stack:** Next.js, TypeScript, Node.js, PostgreSQL, Prisma ORM
-- **Key Features:**
-  - Kanban board interface
-  - Real-time collaboration
-  - Task assignment & notifications
-  - Team analytics
-- 🔗 [View Repository](https://github.com/jo-hax/task-dashboard)
+**Key Features**
+
+- 🧠 NLP-based complaint classification
+- 📌 Automated grievance routing
+- 🚨 Priority assignment
+- 📊 Admin dashboard
+- ⚡ Automated workflow
+
+🏆 **Achievement:** Secured **4th position** in the IEDC Startup Summit 2026 college selection round.
 
 ---
 
-### **Project 4: Weather App**
-A responsive weather application with real-time data.
+### 🔐 AI-Powered Secure USB Protection System
 
-- **Description:** Beautiful weather app with location-based forecasts and weather alerts
-- **Tech Stack:** React, Node.js, OpenWeather API, Geolocation API
-- **Key Features:**
-  - Real-time weather updates
-  - 7-day forecast
-  - Weather alerts
-  - Multiple location support
-- 🔗 [View Repository](https://github.com/jo-hax/weather-app)
+A cybersecurity system designed to improve USB security through **malware detection and encryption**.
+
+**Tech:** Python • Machine Learning • Raspberry Pi • AES-256
+
+**Key Features**
+
+- 🦠 Malware detection
+- 🔐 AES-256 encryption
+- 💾 USB security monitoring
+- 🔎 Threat analysis
+- 🛡️ Secure file handling
+
+---
+
+### 🧠 AI-Based Cheating Detection in Online Coding Tests
+
+An intelligent system designed to identify suspicious coding behavior using **coding-style fingerprinting and adaptive follow-up questions**.
+
+**Tech:** Python • Flask • HTML • CSS • JavaScript • SQLite/MySQL
+
+**Key Features**
+
+- 🔍 Coding-style fingerprinting
+- 🤖 AI-assisted detection
+- 🧠 Adaptive follow-up questions
+- 📊 Suspicion analysis
+- 🌐 Web-based interface
+
+---
+
+### 🚦 STEP-SAFE
+
+**Smart TinyML and Few-Shot Enabled Pedestrian and Cyclist Safety Framework for Intelligent Transportation Systems**
+
+A proposed intelligent transportation solution combining **TinyML, computer vision, edge computing and IoT** for pedestrian and cyclist safety.
+
+**Areas:** TinyML • Edge AI • Computer Vision • IoT • Intelligent Transportation
+
+---
+
+## 🏆 Achievements
+
+- 🏅 **4th Position** — IEDC Startup Summit 2026 College Selection Round
+- 🚀 Developed an AI-powered GovTech solution
+- 💻 Developed AI/ML and full-stack applications
+- 🔐 Worked on cybersecurity-focused projects
+- 🎓 B.Tech Computer Science & Engineering
+- 🧠 Exploring AI, cybersecurity, IoT and intelligent systems
+
+---
+
+## 🔭 Currently Working On
+
+- 🎓 Final-year B.Tech project
+- 🤖 AI & Machine Learning
+- 🔐 Cybersecurity & Network Security
+- 🌐 Full-Stack Development
+- 🔌 IoT & Embedded Systems
+- 🧠 Edge AI & TinyML
+- 🚀 Real-world technology solutions
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Cybersecurity
+- Network Security
+- Edge AI
+- Embedded Systems
+- System Design
+- Full-Stack Development
 
 ---
 
@@ -137,35 +218,37 @@ A responsive weather application with real-time data.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jo-hax&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Shijo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shijo-hex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jo-hax&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shijo-hex&layout=compact&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jo-hax&theme=tokyonight&hide_border=true)](https://github.com/jo-hax)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shijo-hex&theme=tokyonight&hide_border=true)](https://github.com/shijo-hex)
 
 </div>
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-- **Pursuing:** Bachelor's in Computer Science / Information Technology
-- **Certifications:**
-  - Full Stack Web Development Specialization
-  - React - Advanced Concepts
-  - Node.js & Express Complete Course
-  - Cloud Computing Fundamentals
+**Bachelor of Technology — Computer Science & Engineering**
+
+**John Cox Memorial CSI Institute of Technology**  
+Thiruvananthapuram, Kerala, India
 
 ---
 
-## 📈 Professional Highlights
+## 💼 Open To
 
-- ✅ Developed and deployed **4+ full-stack applications**
-- ✅ Proficient in **REST APIs** and **GraphQL**
-- ✅ Experience with **CI/CD pipelines** and **Git workflows**
-- ✅ Strong understanding of **database design** and **optimization**
-- ✅ Passionate about **clean code** and **best practices**
-- ✅ Quick learner with a **growth mindset**
+I'm interested in:
+
+- 🤖 AI/ML projects
+- 🌐 Full-stack development
+- 🔐 Cybersecurity projects
+- 🔌 IoT & Embedded Systems
+- 🚀 Startup ideas
+- 🏆 Hackathons
+- 🤝 Open-source collaboration
+- 💡 Innovative real-world projects
 
 ---
 
@@ -174,43 +257,33 @@ A responsive weather application with real-time data.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shijo-sylan/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jo-hax)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shijo-hex)
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shijosylan@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
 </div>
 
 ---
 
-## 💼 Looking For
+## 💬 Let's Connect
 
-I'm always interested in:
-- 🚀 Exciting full-stack development opportunities
-- 🤝 Open-source collaboration
-- 💡 Building innovative solutions
-- 📚 Learning from experienced developers
-- 🎯 Mentoring and contributing to the developer community
-
----
-
-## 💬 Let's Talk!
-
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shijo-sylan/) or drop me an [email](mailto:shijosylan@gmail.com). I'm always open to discussing new projects, ideas, or opportunities!
+Feel free to reach out if you'd like to discuss **AI, cybersecurity, web development, IoT, projects, hackathons, or interesting technology ideas.**
 
 ---
 
 ## 🎨 Development Philosophy
 
-> **"Write code that is clean, maintainable, and user-focused. Every line of code is a conversation with future developers (including your future self)."**
+> **"Build things that solve real problems. Learn continuously. Improve constantly."**
 
 ---
 
 <div align="center">
 
-### ⭐ If you find my work interesting, feel free to star my repositories and follow me on GitHub!
+### ⭐ Explore my repositories and follow my journey!
 
-![](https://komarev.com/ghpvc/?username=jo-hax&color=blueviolet&style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=shijo-hex&color=blueviolet&style=flat-square)](https://github.com/shijo-hex)
 
-**Last Updated:** March 2026
+**Thanks for visiting! 🚀**
 
 </div>
